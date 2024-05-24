@@ -1,0 +1,6 @@
+framework module CareerPod {
+  umbrella header "CareerPod-umbrella.h"
+
+  export *
+  module * { export * }
+}

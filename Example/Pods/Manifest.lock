@@ -1,0 +1,23 @@
+PODS:
+  - CareerPod (0.1.0):
+    - SnapKit
+  - SnapKit (5.7.1)
+
+DEPENDENCIES:
+  - CareerPod (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - SnapKit
+
+EXTERNAL SOURCES:
+  CareerPod:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  CareerPod: c59635ac1527fba900b6c00dd505b1ab059cd167
+  SnapKit: d612e99e678a2d3b95bf60b0705ed0a35c03484a
+
+PODFILE CHECKSUM: 200d61fd0f8fcb3fd0055270d8f368c000752e4c
+
+COCOAPODS: 1.14.2

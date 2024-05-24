@@ -1,0 +1,27 @@
+{
+  "name": "CareerPod",
+  "version": "0.1.0",
+  "summary": "A short description of CareerPod.",
+  "homepage": "https://github.com/brian.cao/CareerPod",
+  "license": "MIT",
+  "authors": {
+    "brian.cao": "brian.cao@dji.com"
+  },
+  "source": {
+    "git": "https://github.com/brian.cao/CareerPod.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "13.0"
+  },
+  "source_files": "CareerPod/Classes/**/*",
+  "frameworks": [
+    "UIKit",
+    "MapKit"
+  ],
+  "dependencies": {
+    "SnapKit": [
+
+    ]
+  }
+}
