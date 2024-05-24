@@ -8,17 +8,17 @@
 
 Pod::Spec.new do |s|
   s.name             = 'CareerPod'
-  s.version          = '0.1.0'
+  s.version          = '0.1.1'
   s.summary          = 'A short description of CareerPod.'
 
 
-  s.homepage         = 'https://github.com/brian.cao/CareerPod'
-  # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
+  s.homepage         = 'https://github.com/zhangfei5056/CareerPod'
   s.license          = 'MIT'
-  s.author           = { 'brian.cao' => 'brian.cao@dji.com' }
-  s.source           = { :git => 'git@github.com:zhangfei5056/CareerPod.git', :tag => s.version.to_s }
+  s.author           = { 'zhangfei5056' => 'zhangfei5056' }
+  s.source           = { :git => 'git@github.com:zhangfei5056/CareerPod.git', :tag => '0.1.1' }
 
   s.ios.deployment_target = '13.0'
+  s.swift_versions = ['5.0']
 
   s.source_files = 'CareerPod/Classes/**/*'
   
